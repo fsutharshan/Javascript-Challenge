@@ -16,7 +16,7 @@ This application is a Javascript based table that is searchable by the date of t
 This application lets the user to be able to search by multiple attributes: date/time, city, state, country and shape. The application uses multiple input fields and  JavaScript code so the user can be able to set multiple filters and search for UFO sightings.
 
 ## The application 
-Application can be found here :https://fsutharshan.github.io/Javascript-Challenge/
+Application can be found here: https://fsutharshan.github.io/Javascript-Challenge/
 
 ## Screenshots
 
